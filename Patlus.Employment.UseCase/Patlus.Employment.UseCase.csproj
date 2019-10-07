@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Patlus.Common\Patlus.Common.UseCase\Patlus.Common.UseCase.csproj" />
+    <ProjectReference Include="..\Patlus.Common.UseCase\Patlus.Common.UseCase.csproj" />
   </ItemGroup>
 
 </Project>
